@@ -1,3 +1,3 @@
 hello! world
-Today is a happy day.
+Today is a funny day.
 Today is December 7th.
